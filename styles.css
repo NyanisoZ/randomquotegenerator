@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url(assets/wp12353689-jordan-b-peterson-wallpapers.jpg);
+    background-size: auto;
+}
+
+body{
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    align-items: left;
+    justify-content: left;
+    height: 100vh;
+    margin: 0;
+    color: white;
+    text-wrap: wrap;
+}
+
+.container {
+    width: 550px;
+    height: 450px;
+    text-align: center;
+}
+
+.header{
+    text-align: center;
+    margin-bottom: 50px;
+
+}
+
+
+.container h1{
+    margin-top: 220px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: -10px;
+}
+ 
+
+.quote-container {
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    letter-spacing: 5px;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+button {
+    padding: 10px;
+    cursor: pointer;
+    color: #fff;
+    text-align: center;
+}
